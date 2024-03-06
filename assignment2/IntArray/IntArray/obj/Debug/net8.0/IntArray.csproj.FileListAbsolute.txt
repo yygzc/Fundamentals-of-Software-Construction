@@ -1,0 +1,14 @@
+C:\Users\hua'wei\source\repos\IntArray\IntArray\bin\Debug\net8.0\IntArray.exe
+C:\Users\hua'wei\source\repos\IntArray\IntArray\bin\Debug\net8.0\IntArray.deps.json
+C:\Users\hua'wei\source\repos\IntArray\IntArray\bin\Debug\net8.0\IntArray.runtimeconfig.json
+C:\Users\hua'wei\source\repos\IntArray\IntArray\bin\Debug\net8.0\IntArray.dll
+C:\Users\hua'wei\source\repos\IntArray\IntArray\bin\Debug\net8.0\IntArray.pdb
+C:\Users\hua'wei\source\repos\IntArray\IntArray\obj\Debug\net8.0\IntArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hua'wei\source\repos\IntArray\IntArray\obj\Debug\net8.0\IntArray.AssemblyInfoInputs.cache
+C:\Users\hua'wei\source\repos\IntArray\IntArray\obj\Debug\net8.0\IntArray.AssemblyInfo.cs
+C:\Users\hua'wei\source\repos\IntArray\IntArray\obj\Debug\net8.0\IntArray.csproj.CoreCompileInputs.cache
+C:\Users\hua'wei\source\repos\IntArray\IntArray\obj\Debug\net8.0\IntArray.dll
+C:\Users\hua'wei\source\repos\IntArray\IntArray\obj\Debug\net8.0\refint\IntArray.dll
+C:\Users\hua'wei\source\repos\IntArray\IntArray\obj\Debug\net8.0\IntArray.pdb
+C:\Users\hua'wei\source\repos\IntArray\IntArray\obj\Debug\net8.0\IntArray.genruntimeconfig.cache
+C:\Users\hua'wei\source\repos\IntArray\IntArray\obj\Debug\net8.0\ref\IntArray.dll

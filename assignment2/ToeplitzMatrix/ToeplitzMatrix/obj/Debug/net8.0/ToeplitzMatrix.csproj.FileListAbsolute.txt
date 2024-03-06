@@ -1,0 +1,14 @@
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\bin\Debug\net8.0\ToeplitzMatrix.exe
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\bin\Debug\net8.0\ToeplitzMatrix.deps.json
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\bin\Debug\net8.0\ToeplitzMatrix.runtimeconfig.json
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\bin\Debug\net8.0\ToeplitzMatrix.dll
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\bin\Debug\net8.0\ToeplitzMatrix.pdb
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\obj\Debug\net8.0\ToeplitzMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\obj\Debug\net8.0\ToeplitzMatrix.AssemblyInfoInputs.cache
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\obj\Debug\net8.0\ToeplitzMatrix.AssemblyInfo.cs
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\obj\Debug\net8.0\ToeplitzMatrix.csproj.CoreCompileInputs.cache
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\obj\Debug\net8.0\ToeplitzMatrix.dll
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\obj\Debug\net8.0\refint\ToeplitzMatrix.dll
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\obj\Debug\net8.0\ToeplitzMatrix.pdb
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\obj\Debug\net8.0\ToeplitzMatrix.genruntimeconfig.cache
+C:\Users\hua'wei\source\repos\ToeplitzMatrix\ToeplitzMatrix\obj\Debug\net8.0\ref\ToeplitzMatrix.dll
