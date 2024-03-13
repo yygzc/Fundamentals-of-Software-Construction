@@ -1,0 +1,14 @@
+C:\Users\hua'wei\source\repos\Shape\Shape\bin\Debug\net8.0\Shape.exe
+C:\Users\hua'wei\source\repos\Shape\Shape\bin\Debug\net8.0\Shape.deps.json
+C:\Users\hua'wei\source\repos\Shape\Shape\bin\Debug\net8.0\Shape.runtimeconfig.json
+C:\Users\hua'wei\source\repos\Shape\Shape\bin\Debug\net8.0\Shape.dll
+C:\Users\hua'wei\source\repos\Shape\Shape\bin\Debug\net8.0\Shape.pdb
+C:\Users\hua'wei\source\repos\Shape\Shape\obj\Debug\net8.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hua'wei\source\repos\Shape\Shape\obj\Debug\net8.0\Shape.AssemblyInfoInputs.cache
+C:\Users\hua'wei\source\repos\Shape\Shape\obj\Debug\net8.0\Shape.AssemblyInfo.cs
+C:\Users\hua'wei\source\repos\Shape\Shape\obj\Debug\net8.0\Shape.csproj.CoreCompileInputs.cache
+C:\Users\hua'wei\source\repos\Shape\Shape\obj\Debug\net8.0\Shape.dll
+C:\Users\hua'wei\source\repos\Shape\Shape\obj\Debug\net8.0\refint\Shape.dll
+C:\Users\hua'wei\source\repos\Shape\Shape\obj\Debug\net8.0\Shape.pdb
+C:\Users\hua'wei\source\repos\Shape\Shape\obj\Debug\net8.0\Shape.genruntimeconfig.cache
+C:\Users\hua'wei\source\repos\Shape\Shape\obj\Debug\net8.0\ref\Shape.dll
