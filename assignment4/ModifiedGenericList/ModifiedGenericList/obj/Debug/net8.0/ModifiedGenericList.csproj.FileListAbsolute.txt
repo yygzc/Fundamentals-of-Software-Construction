@@ -1,0 +1,14 @@
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\bin\Debug\net8.0\ModifiedGenericList.exe
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\bin\Debug\net8.0\ModifiedGenericList.deps.json
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\bin\Debug\net8.0\ModifiedGenericList.runtimeconfig.json
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\bin\Debug\net8.0\ModifiedGenericList.dll
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\bin\Debug\net8.0\ModifiedGenericList.pdb
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\obj\Debug\net8.0\ModifiedGenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\obj\Debug\net8.0\ModifiedGenericList.AssemblyInfoInputs.cache
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\obj\Debug\net8.0\ModifiedGenericList.AssemblyInfo.cs
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\obj\Debug\net8.0\ModifiedGenericList.csproj.CoreCompileInputs.cache
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\obj\Debug\net8.0\ModifiedGenericList.dll
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\obj\Debug\net8.0\refint\ModifiedGenericList.dll
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\obj\Debug\net8.0\ModifiedGenericList.pdb
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\obj\Debug\net8.0\ModifiedGenericList.genruntimeconfig.cache
+C:\Users\hua'wei\source\repos\ModifiedGenericList\ModifiedGenericList\obj\Debug\net8.0\ref\ModifiedGenericList.dll
