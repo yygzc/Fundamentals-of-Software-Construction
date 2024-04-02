@@ -1,0 +1,14 @@
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\bin\Debug\net8.0\OrderManagement.exe
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\bin\Debug\net8.0\OrderManagement.deps.json
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\bin\Debug\net8.0\OrderManagement.runtimeconfig.json
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\bin\Debug\net8.0\OrderManagement.dll
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\bin\Debug\net8.0\OrderManagement.pdb
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\obj\Debug\net8.0\OrderManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\obj\Debug\net8.0\OrderManagement.AssemblyInfoInputs.cache
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\obj\Debug\net8.0\OrderManagement.AssemblyInfo.cs
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\obj\Debug\net8.0\OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\obj\Debug\net8.0\OrderManagement.dll
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\obj\Debug\net8.0\refint\OrderManagement.dll
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\obj\Debug\net8.0\OrderManagement.pdb
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\obj\Debug\net8.0\OrderManagement.genruntimeconfig.cache
+C:\Users\hua'wei\source\repos\OrderManagement\OrderManagement\obj\Debug\net8.0\ref\OrderManagement.dll
