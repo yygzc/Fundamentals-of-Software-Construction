@@ -1,0 +1,12 @@
+C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\bin\Debug\OrderManageWinForm.exe.config
+C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\bin\Debug\OrderManageWinForm.exe
+C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\bin\Debug\OrderManageWinForm.pdb
+C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.csproj.AssemblyReference.cache
+C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.Properties.Resources.resources
+C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.csproj.GenerateResource.cache
+C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.csproj.CoreCompileInputs.cache
+C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.exe
+C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.pdb
+C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.OrderManagement.resources
+C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.AddOrder.resources
+C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.ModifyOrder.resources
