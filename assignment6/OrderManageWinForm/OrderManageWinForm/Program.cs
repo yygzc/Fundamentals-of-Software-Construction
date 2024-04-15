@@ -11,9 +11,11 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 
 namespace OrderManageWinForm
 {
@@ -40,7 +42,7 @@ namespace OrderManageWinForm
         public DateTime CreateTime { get; set; }
 
         public double TotalAmount => OrderDetails.Sum(detail => detail.Amount);
-
+        public Order() { OrderDetails = new List<OrderDetails>(); CreateTime = DateTime.Now; }
         public Order(int orderNumber, Client client)
         {
             OrderNumber = orderNumber;
@@ -85,20 +87,18 @@ namespace OrderManageWinForm
     public class OrderDetails
     {
         public int Index { get; set; } //序号
-        public Commodity Commodity { get; set; }
-        public Client Client { get; set; }
+        public string ItemName { get; set; }
+        public double ItemPrice { get; set; }
         public int Quantity { get; set; }
-        public OrderDetails(int index, Commodity commodity, Client client, int quantity)
+        public OrderDetails() { }
+        public OrderDetails(int index, string itemName, double itemPrice, int quantity)
         {
             Index = index;
-            Commodity = commodity;
-            Client = client;
+            ItemName = itemName;
+            ItemPrice = itemPrice;
             Quantity = quantity;
         }
-        public double Amount
-        {
-            get => Commodity == null ? 0.0 : Commodity.Price * Quantity;
-        }
+        public double Amount { get => ItemPrice * Quantity; }
         //确保添加的每个订单的订单明细不重复
         public override bool Equals(object obj)
         {
@@ -108,11 +108,11 @@ namespace OrderManageWinForm
             }
 
             OrderDetails other = (OrderDetails)obj;
-            return Commodity.Equals(other.Commodity) && Client.Equals(other.Client);
+            return ItemName.Equals(other.ItemName);
         }
         public override string ToString()
         {
-            return $"Commodity: {Commodity}" + $"Client: {Client}" + $"Quantity: {Quantity}" + $"Amount: {Amount}C";
+            return $"Commodity Name: {ItemName}" + $"Quantity: {Quantity}" + $"Amount: {Amount}C";
         }
     }
     public class Client
@@ -143,35 +143,6 @@ namespace OrderManageWinForm
         }
     }
 
-    public class Commodity
-    {
-        public int CommodityId { get; set; }
-        public string CommodityName { get; set; }
-        public double Price { get; set; }
-        // 可以添加其他商品相关信息
-
-        public Commodity(int commodityId, string name, double price)
-        {
-            CommodityId = commodityId;
-            CommodityName = name;
-            Price = price;
-        }
-
-        public override string ToString()
-        {
-            return $"Commodity ID: {CommodityId}, Name: {CommodityName}, Price: {Price:C}\n";
-        }
-
-        public override bool Equals(object obj)
-        {
-            if (obj == null || GetType() != obj.GetType())
-                return false;
-
-            Commodity other = (Commodity)obj;
-            return CommodityId == other.CommodityId;
-        }
-    }
-
     public class OrderService
     {
         public List<Order> orders { get; set; }
@@ -190,7 +161,7 @@ namespace OrderManageWinForm
             }
             else
             {
-                throw new ArgumentException($"Order {newOrder.OrderNumber} already exists.\n");
+                throw new ApplicationException($"Order {newOrder.OrderNumber} already exists.\n");
             }
         }
         //删除订单
@@ -203,7 +174,7 @@ namespace OrderManageWinForm
             }
             else
             {
-                throw new ArgumentException($"Order {order.OrderNumber} not found.\n");
+                throw new ApplicationException($"Order {order.OrderNumber} not found.\n");
             }
         }
         //修改订单
@@ -212,7 +183,7 @@ namespace OrderManageWinForm
             var index = orders.FindIndex(order => order.OrderNumber == modifiedOrder.OrderNumber);
             if (index == -1)
             {
-                throw new ArgumentException($"Order {modifiedOrder.OrderNumber} does not exist.\n");
+                throw new ApplicationException($"Order {modifiedOrder.OrderNumber} does not exist.\n");
             }
             else
             {

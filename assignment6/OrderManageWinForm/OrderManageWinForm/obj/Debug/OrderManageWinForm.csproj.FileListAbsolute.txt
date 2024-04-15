@@ -8,5 +8,4 @@ C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\Or
 C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.exe
 C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.pdb
 C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.OrderManagement.resources
-C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.AddOrder.resources
-C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.ModifyOrder.resources
+C:\Users\hua'wei\source\repos\OrderManageWinForm\OrderManageWinForm\obj\Debug\OrderManageWinForm.EditOrder.resources
