@@ -1,0 +1,15 @@
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\bin\Debug\net8.0\SimpleCrawler.exe
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\bin\Debug\net8.0\SimpleCrawler.deps.json
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\bin\Debug\net8.0\SimpleCrawler.runtimeconfig.json
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\bin\Debug\net8.0\SimpleCrawler.dll
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\bin\Debug\net8.0\SimpleCrawler.pdb
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\obj\Debug\net8.0\SimpleCrawler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\obj\Debug\net8.0\SimpleCrawler.AssemblyInfoInputs.cache
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\obj\Debug\net8.0\SimpleCrawler.AssemblyInfo.cs
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\obj\Debug\net8.0\SimpleCrawler.csproj.CoreCompileInputs.cache
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\obj\Debug\net8.0\SimpleCrawler.sourcelink.json
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\obj\Debug\net8.0\SimpleCrawler.dll
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\obj\Debug\net8.0\refint\SimpleCrawler.dll
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\obj\Debug\net8.0\SimpleCrawler.pdb
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\obj\Debug\net8.0\SimpleCrawler.genruntimeconfig.cache
+D:\Git\tmp\Fundamentals-of-Software-Construction\assignment10\SimpleCrawler\SimpleCrawler\obj\Debug\net8.0\ref\SimpleCrawler.dll

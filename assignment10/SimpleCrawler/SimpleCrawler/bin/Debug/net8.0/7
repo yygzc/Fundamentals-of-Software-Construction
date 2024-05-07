@@ -1,0 +1,1309 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="referrer" content="always" />
+    <title>IT新闻 - 博客园</title>
+    <meta name="keywords" content="IT新闻,it news,互联网新闻,业界新闻,IT资讯,IT业界,新闻频道" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link id="rsslink" title="rss" type="application/rss+xml" rel="alternate" href="http://feed.cnblogs.com/news/rss" />
+    <link rel="shortcut icon" href="//assets.cnblogs.com/favicon.ico" />
+    <link rel="stylesheet" href="/Content/bundles/news.css?v=YcZq45_o7Rnx5caGM0yf08Xz7gHeOj6MBNSa5e2O3-4" />
+    <link rel="stylesheet" type="text/css" href="//mention.cnblogs.com/css/mention-simple.css?id=20160613">
+    <link id="smallScreen" rel="stylesheet" type="text/css" media="screen and (max-width:768px)" href="/Content/smallScreen.css?v=QdRnfj1OIxamHUUxWPhqj1XzMJlGngVqzfd-OwQHDGk" />
+    <script type="text/javascript" src="https://assets.cnblogs.com/scripts/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bundles/news.js?v=09jvB8qtpYZdFKf7-YitUe5mriuI5oJZ1zOxuRGB9bU"></script>
+</head>
+<body>
+    <a name="top"></a>
+    <div id="wrap">
+        <div id="header">
+            <a name="top"></a>
+            <div id="wrapper_top_block">
+                <div id="login_area">
+                </div>
+                <div id="top_mini_nav_block">&laquo; <a href="//www.cnblogs.com" class="dark_gray">网站首页</a> <a href="http://zzk.cnblogs.com/" class="dark_gray">找找看</a></div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div id="main_wrapper">
+        <div id="main_header">
+            <div class="header_div">
+                <div class="logo">
+                    <a href="//www.cnblogs.com">
+                        <img src="/Images/logo.gif" alt="logo" />
+                    </a>
+                </div>
+                <div class="banner">
+                    <div id="clubHeader_panelNews">
+<div id="e1">
+    <a href="https://click.aliyun.com/m/1000392817/" target="_blank">
+        <img src="https://img2024.cnblogs.com/blog/35695/202404/35695-20240422221408164-1604685620.jpg">
+    </a>
+</div>
+                    </div>
+                </div>
+            </div>
+            <div class="mainmenu">
+                <div class="feedback_block">
+                    <a href="//group.cnblogs.com/forum/public/">反馈问题或建议</a>
+                </div>
+                <ul id="navlist_main">
+                    <li style="margin-left:20px;">
+                        <a href="//www.cnblogs.com">首页</a>
+                    </li>
+                    <li>
+                        <a href="//home.cnblogs.com">园子</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li id="clubHeader_liNews">
+                        <a id="clubHeader_lnkNews" title="IT新闻" class="current" href="/">新 闻</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkQuestionMenu" href="//q.cnblogs.com/">博问</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkIngMenu" href="//ing.cnblogs.com/">闪存</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lnkWz" href="//wz.cnblogs.com/">收藏</a>
+                    </li>
+                    <li>
+                        <a href="https://home.cnblogs.com/vip">会员</a>
+                    </li>
+                    <li id="clubHeader_liMyMessage">
+                    </li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+                if (typeof (jQuery) != 'undefined') {
+                    GetUserInfo();
+                }
+            </script>
+        </div>
+        <div id="sideleft">
+    <div id="guide" style="display:none;">
+        <h3>
+            <a href="//www.cnblogs.com" title="程序员的网上家园">博客园</a> » <a href="/" title="IT新闻">新闻</a><span id="lbMobileAuditTips" style="display:none;"></span>
+        </h3>
+    </div>
+    <div id="navcontainer" class="floatright" style="padding-top: 1px;">
+        <ul id="navlist">
+            <li>
+                <a href="/" class="current">最新发布</a>
+            </li>
+            <li>
+                <a href="/n/recommend">推荐新闻</a>
+            </li>
+            <li>
+                <a href="/n/digg">热门新闻</a>
+            </li>
+            <li>
+                <a href="/n/comment">最新评论</a>
+            </li>
+        </ul>
+    </div>
+    <div class="clear">
+    </div>
+    <div id="news_list">
+            <div class="news_block" id="entry_769354">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769354,'agree')">
+                        <span id="digg_num_769354" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769354" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769354/" target="_blank">星巴克需要超越星巴克</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_205.htm"><img src="//images0.cnblogs.com/news_topic/starbucks.jpg" class="topic_img" alt=""/></a>
+                        文新品略财经，作者吴文武 最新的财报数据显示，星巴克在中国市场继续保持增长，面对竞争激烈的中国咖啡市场，星巴克中国还有硬仗要打。 01 星巴克中国业绩持续增长 《新品略财经》关注到，咖啡巨头星巴克最新公布了 2024 财年第二季度财报。 聚焦星巴克中国市场，星巴克中国的多项业务数据，可圈可点。 财报
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769354#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">26 人浏览</span>
+                        
+                        发布于 <span class="gray">2024-05-07 17:02</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769353">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769353,'agree')">
+                        <span id="digg_num_769353" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769353" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769353/" target="_blank">天玑 9300+ 旗舰芯片正式发布，联发科要全面助力 AI</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_668.htm"><img src="https://img2018.cnblogs.com/news_topic/20191202143601598-1534008655.png" class="topic_img" alt=""/></a>
+                        5 月 7 日，联发科在天玑开发者大会 MDDC 2024 上发布了新款旗舰处理器 —— 天玑 9300+。这颗芯片除了在网络连接、节能低耗等方面带来升级之外，还着重在 AI 领域进行发力。 联发科是目前唯一采用全大核的手机芯片厂商，天玑 9300+ 也是沿用了这一架构。 根据联发科官方介绍，天玑 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769353#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">49 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%81%94%E5%8F%91%E7%A7%91/" class="gray">联发科</a> </span>
+                        发布于 <span class="gray">2024-05-07 16:52</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769352">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769352,'agree')">
+                        <span id="digg_num_769352" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769352" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769352/" target="_blank">动物园怎么逆袭成了顶流？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_132.htm"><img src="//images0.cnblogs.com/news_topic/ITblog.jpg" class="topic_img" alt=""/></a>
+                        文新营销 NewMarketing 过去被认为是儿童专属的动物园，正在成为不同年龄段游客竞相奔赴的旅游目的地。刚刚过去的清明假期，一些知名的动物园就已经被挤“爆”了： 西安秦岭野生动物园假期 3 天接待游客超过 8 万人； 内蒙古鄂尔多斯野生动物园 3 天共接待游客超 12 万人次； 石家庄市动物园
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769352#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">76 人浏览</span>
+                        
+                        发布于 <span class="gray">2024-05-07 16:40</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769351">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769351,'agree')">
+                        <span id="digg_num_769351" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769351" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769351/" target="_blank">套路加价抢票，这个五一携程又要赚麻了</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_419.htm"><img src="https://img2020.cnblogs.com/news_topic/20200925123041482-166223686.png" class="topic_img" alt=""/></a>
+                        文锌财经，作者孙鹏越，编辑大风 五一，你抢到票了吗？ 即将到来的五一假期，又是一个“史上最繁忙”的假期。高铁票、机票、酒店、景区门票全部处于“售罄”状态。 据携程刚刚发布的《2024“五一”旅游趋势洞察报告》显示，“五一”中长线旅游成为主角，国内长途游订单占比达到 56%；尤其是县域市场，酒店预订订
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769351#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">49 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%90%BA%E7%A8%8B/" class="gray">携程</a> </span>
+                        发布于 <span class="gray">2024-05-07 16:30</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769349">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769349,'agree')">
+                        <span id="digg_num_769349" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769349" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769349/" target="_blank">“反向旅游”的年轻人，踩了一坑又一坑</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_132.htm"><img src="//images0.cnblogs.com/news_topic/ITblog.jpg" class="topic_img" alt=""/></a>
+                        文听筒 Tech，作者饶言、小听、才哥，编辑 饶言 五一假期去哪里玩？ 不愿意“凑热闹”的年轻人，都有自己的“打算”。 “我早早就做好了攻略，哪里‘冷门’就去哪里。”95 后小茹早在一个月前就做好了攻略，她的“计划”很明确，“不去凑热闹，主打一个轻松游。” 和小茹一样，这个五一，不打卡人流地和大景点
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769349#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">99 人浏览</span>
+                        
+                        发布于 <span class="gray">2024-05-07 16:21</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769350">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769350,'agree')">
+                        <span id="digg_num_769350" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769350" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769350/" target="_blank">对话商汤绝影王晓刚：未来汽车智能化的竞争，本质是AI的比拼</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1187.htm"><img src="https://img2023.cnblogs.com/news_topic/20230621110237115-1375267637.png" class="topic_img" alt=""/></a>
+                        商汤绝影智能座舱 “未来汽车智能化的竞争，本质上是通用人工智能技术融合应用的比拼。”在北京车展上，商汤科技联合创始人、首席科学家、绝影智能汽车事业群总裁王晓刚判断说。 与传统燃油车强调引擎动力、操控性能不同，新能源车市场有两大普适性的核心卖点，一个是智能驾驶，另一个则是智能座舱。随着大模型的出现和普
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769350#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">14 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%95%86%E6%B1%A4/" class="gray">商汤</a> </span>
+                        发布于 <span class="gray">2024-05-07 16:14</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769348">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769348,'agree')">
+                        <span id="digg_num_769348" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769348" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769348/" target="_blank">教育复盘：三年过后教育行业复苏了，也是分水岭的初现？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_132.htm"><img src="//images0.cnblogs.com/news_topic/ITblog.jpg" class="topic_img" alt=""/></a>
+                        文港股研究社，作者雪花一下片 资本市场不愧是总是走在实体经济前沿的预测性经济。 近日，A股多家从 2022 年或 2023 年等不同时间段内就“悄悄”以趋势性走强的教育企业发布了最新业绩公告。事实也确实如市场所预期的那样，整体这些企业业绩显现很强的韧性，如学大教育、行动教育等。 由此，市场不免有声音
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769348#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">26 人浏览</span>
+                        
+                        发布于 <span class="gray">2024-05-07 16:08</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769347">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769347,'agree')">
+                        <span id="digg_num_769347" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769347" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769347/" target="_blank">宁王还是宁王</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_2744.htm"><img src="https://img2020.cnblogs.com/news_topic/20210607011335806-158369367.png" class="topic_img" alt=""/></a>
+                        文 巨潮 WAVE，作者｜谢泽锋，编辑 杨旭然 不久前的北京国际车展上，周鸿祎穿梭于各大展台，用自己卖迈巴赫换新能源的“大课题”，给国产汽车上了一轮高度。 一个有意思的插曲是，除了拜会各路车企大佬，会场上有一位企业家被他称作“真正的大佬”，那就是为国产新能源汽车提供动力的宁德时代董事长曾毓群。 目前
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769347#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">61 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3/" class="gray">宁德时代</a> </span>
+                        发布于 <span class="gray">2024-05-07 15:55</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769346">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769346,'agree')">
+                        <span id="digg_num_769346" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769346" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769346/" target="_blank">火遍全网的Jellycat，想赚体育迷的钱</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_132.htm"><img src="//images0.cnblogs.com/news_topic/ITblog.jpg" class="topic_img" alt=""/></a>
+                        文体育产业生态圈 不知从何时开始，年轻人的社交媒体已经被 Jellycat「攻占」了。 就算不认识这个名字的英文拼写，你也一定见过他们的产品。「带上 Jellycat 去旅行」「Jellycat 表情包」等话题和词条在各社交平台热度居高不下，人手一只 Jellycat 似乎已经成为一种时尚。 如今，
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769346#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">65 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Jellycat/" class="gray">Jellycat</a> </span>
+                        发布于 <span class="gray">2024-05-07 15:41</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769345">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769345,'agree')">
+                        <span id="digg_num_769345" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769345" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769345/" target="_blank">腾讯斥资超15亿增持Remedy股份，正开发《Control》《马克思佩恩》</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_822.htm"><img src="//images2015.cnblogs.com/news_topic/20170210163242510-1544238950.png" class="topic_img" alt=""/></a>
+                        GameLook 报道/近日，腾讯大幅增持芬兰游戏开发商&#160;Remedy&#160;Entertainment 股份，最近的一份文件显示，腾讯的间接持股比例猛增至 14.8%，相比之前 5.01% 增加了 9.79% 的股份。今日 Remedy 市值为 26 亿欧元，以股价倒推，腾讯增持 Remedy 或耗资 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769345#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">53 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F/" class="gray">腾讯游戏</a> <a href="/n/tag/Remedy/" class="gray">Remedy</a> </span>
+                        发布于 <span class="gray">2024-05-07 15:32</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769344">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769344,'agree')">
+                        <span id="digg_num_769344" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769344" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769344/" target="_blank">Adobe 通知 Android 用户 Photoshop Mix / Fix 应用即将关闭</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_117.htm"><img src="//images0.cnblogs.com/news_topic/Photoshop.png" class="topic_img" alt=""/></a>
+                        在发给用户的邮件中，Adobe 宣布将很快关闭 Android 上的 Photoshop Mix 和 Photoshop Fix 应用程序。 这两款 app 于 2021 年停止更新，并从苹果 App Store 下架，但 Android 上的版本依旧可以获取并使用，只是不会获得支持。 Photos
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769344#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">17 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Adobe/" class="gray">Adobe</a> <a href="/n/tag/Photoshop/" class="gray">Photoshop</a> </span>
+                        发布于 <span class="gray">2024-05-07 15:25</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769343">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769343,'agree')">
+                        <span id="digg_num_769343" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769343" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769343/" target="_blank">YouTube 推出「跳转至精彩部分」AI 功能</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_22.htm"><img src="//images0.cnblogs.com/news_topic/youtube.gif" class="topic_img" alt=""/></a>
+                        YouTube 面向所有 Premium 用户推出「跳转」功能，该功能由 AI 驱动，目前仅在美国 YouTube 的 Android 应用程序上提供，且只适用于英语视频。 该「跳转」功能将结合用户数据和 AI 来预测用户可能想看的内容，直接跳转到视频的最佳部分。此前该功能于 3 月份进行了灰度测试
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769343#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">17 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/YouTube/" class="gray">YouTube</a> </span>
+                        发布于 <span class="gray">2024-05-07 15:18</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769342">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769342,'agree')">
+                        <span id="digg_num_769342" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769342" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769342/" target="_blank">两款最火的AI硬件全球首拆来了：Rabbit R1被曝套壳后又翻车 ，Ai Pin扒开后就像块智能手表？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_3286.htm"><img src="https://img2023.cnblogs.com/news_topic/20231114103723966-1386132731.png" class="topic_img" alt=""/></a>
+                        自诩要干翻手机的 AI 硬件们，似乎总逃不过「首秀即翻车」的宿命。 AI 硬件新物种的 Ai Pin 被嘲美丽废物，号称干翻 app 的 Rabbit R1 私下里可能是个套壳 Android app？当红炸子鸡 Ray-Ban Meta 上的 AI ，看起来更像是买一送一的附赠品…… 尤其是号称原
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769342#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">51 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Ai%20Pin/" class="gray">Ai Pin</a> <a href="/n/tag/Rabbit%20R1/" class="gray">Rabbit R1</a> </span>
+                        发布于 <span class="gray">2024-05-07 15:11</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769341">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769341,'agree')">
+                        <span id="digg_num_769341" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769341" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769341/" target="_blank">iOS 18 新功能爆料汇总：除了 AI，可能还有这些更新</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_82.htm"><img src="https://img2018.cnblogs.com/news_topic/20190822140314801-1842879152.png" class="topic_img" alt=""/></a>
+                        今年的苹果全球开发者大会（WWDC）即将于 6 月 11 日凌晨拉开帷幕，届时 iOS 18 的神秘面纱也将被揭开。 外界普遍预测，iOS 18 的重大变革之一将是引入大量的 AI 功能。最新消息进一步指出，首批 AI 功能很可能完全在 iPhone 设备端运行。 今年三月，曾有媒体报道称苹果与谷歌
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769341#comment" class="gray" target="_blank">评论(1)</a>
+                        </span><span class="view">66 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/iOS%2018/" class="gray">iOS 18</a> </span>
+                        发布于 <span class="gray">2024-05-07 15:00</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769340">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769340,'agree')">
+                        <span id="digg_num_769340" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769340" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769340/" target="_blank">XNGP智能驾驶之外，小鹏找到了另一个「技术标签」</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1005.htm"><img src="//images2017.cnblogs.com/news_topic/20170829150318374-1903952524.png" class="topic_img" alt=""/></a>
+                        「臭搞技术的」。 对于这个略带自嘲的标签，小鹏经过了从无奈到坦然接受的过程，这个历程其实就是小鹏技术能力被「大众」认可的过程，这里的「大众」其实是个双关含义，一是普罗大众，是形形色色的广大普通人；二是大众汽车，去年销量世界第二的汽车巨头，是小鹏直接的竞争对手，也是小鹏的股东和合作伙伴。 当小鹏把「臭
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769340#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">40 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6/" class="gray">小鹏汽车</a> </span>
+                        发布于 <span class="gray">2024-05-07 14:54</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769339">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769339,'agree')">
+                        <span id="digg_num_769339" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769339" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769339/" target="_blank">vivo X100 系列发布会官宣，「灭霸」X100 Ultra 超多细节曝光</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_765.htm"><img src="//images2015.cnblogs.com/news_topic/20161122111125831-216617767.png" class="topic_img" alt=""/></a>
+                        今天上午，vivo 正式官宣「影像新蓝图暨 X 系列新品发布会」，将在 5 月 13 日举行。此次发布会，预计带来 vivo X100 系列的多款新品。 除了 vivo X100s 和 X100s Pro 的迭代升级，内部代号为「Thanos」（灭霸）的 vivo X100 Ultra 也将在发布会
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769339#comment" class="gray" target="_blank">评论(2)</a>
+                        </span><span class="view">74 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/vivo/" class="gray">vivo</a> </span>
+                        发布于 <span class="gray">2024-05-07 14:45</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769338">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769338,'agree')">
+                        <span id="digg_num_769338" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769338" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769338/" target="_blank">苹果5月发布会超全爆料：首款「AI硬件」，小尺寸或缺货，iPad配件大更新</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_82.htm"><img src="https://img2018.cnblogs.com/news_topic/20190822140314801-1842879152.png" class="topic_img" alt=""/></a>
+                        苹果 2024 年第一场正式发布会，即将在劳动节假期后到来。对于中国观众而言，苹果选了个很友好的时间：5 月 7 日晚上 10 点。不用熬夜，避免影响第二天的学习工作。 这场口号为「放飞吧」（Let Loose）的发布会，预计带来 iPad 生态的多款新品：「重大更新」的 iPad Pro 和 iP
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769338#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">57 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%8B%B9%E6%9E%9C/" class="gray">苹果</a> </span>
+                        发布于 <span class="gray">2024-05-07 14:36</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769337">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769337,'agree')">
+                        <span id="digg_num_769337" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769337" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769337/" target="_blank">Ubuntu 24.10 定于 2024 年 10 月 10 日发布</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_42.htm"><img src="https://img2018.cnblogs.com/news_topic/20191023090233125-939903615.png" class="topic_img" alt=""/></a>
+                        Canonical 的下一个主要 Ubuntu 版本 Ubuntu 24.10 代号为 Oracular Oriole（神谕黄鹂）。该版本的发布时间表现已确定，预计将于 2024 年 10 月 10 日正式推出。 Ubuntu 24.10 “Oraulous Oriole” 将是 Canonical
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769337#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">25 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Ubuntu/" class="gray">Ubuntu</a> </span>
+                        发布于 <span class="gray">2024-05-07 14:28</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769336">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769336,'agree')">
+                        <span id="digg_num_769336" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769336" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769336/" target="_blank">Firefox 用户保留 7,470 个标签页不关闭</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_41.htm"><img src="https://img2018.cnblogs.com/news_topic/20191124180522009-1087882610.png" class="topic_img" alt=""/></a>
+                        一位 Firefox 用户透露她有个从不关闭标签页的习惯，她目前的标签页总数多达 7,470 个。她给出的理由是怀旧，喜欢时不时向后滚动看一下旧标签页，“就像一次回忆之旅，记录我正在做/正在学习/正在思考的事情。”如此多的标签页并没有影响 Mac 电脑的性能，因为 Firefox 的高内存效率，以及
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769336#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">75 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Firefox/" class="gray">Firefox</a> </span>
+                        发布于 <span class="gray">2024-05-07 14:21</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769335">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769335,'agree')">
+                        <span id="digg_num_769335" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769335" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769335/" target="_blank">10年前微软收购了诺基亚手机业务</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_2.htm"><img src="https://img2023.cnblogs.com/news_topic/20230719081359678-892461041.png" class="topic_img" alt=""/></a>
+                        10 年前，最大的桌面操作系统供应商收购了昔日的手机巨头，全力进军移动行业。但不到两年时间，微软就减记了其收购了诺基亚手机业务。这一失败是管理不善、市场变化太快墨守成规者跟不上和糟糕产品组合起来的结果。诺基亚手机以可靠、牢固和实用著称，其手机在硬件方面表现出色，2007 年诺基亚手机销量占了全世界的
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769335#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">56 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%BE%AE%E8%BD%AF/" class="gray">微软</a> <a href="/n/tag/%E8%AF%BA%E5%9F%BA%E4%BA%9A/" class="gray">诺基亚</a> </span>
+                        发布于 <span class="gray">2024-05-07 14:16</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769334">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769334,'agree')">
+                        <span id="digg_num_769334" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769334" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769334/" target="_blank">Mastodon 的链接预览会大幅增加服务器负担</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        和 X/Twitter 一样，去中心化微博服务 Mastodon 会对分享的链接生成预览。但与中心化的 X 不同的是，Mastodon 属于联邦宇宙平台，有数以百计的实例，生成的预览不限于一个实例，而是会有大量的实例几乎同时发出请求。这种联邦宇宙放大效应会大幅增加服务器负荷。对于大型网站而言，链接预
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769334#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">14 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Mastodon/" class="gray">Mastodon</a> </span>
+                        发布于 <span class="gray">2024-05-07 14:10</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769333">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769333,'agree')">
+                        <span id="digg_num_769333" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769333" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769333/" target="_blank">寒武纪行歌高管离职创业，成立L3级智驾公司一辅智行</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1471.htm"><img src="https://img2018.cnblogs.com/news_topic/20190620222657011-1238231060.png" class="topic_img" alt=""/></a>
+                        谁能想到，到了 2024 年，智能驾驶行业还能迎来新的创业者？ 雷峰网(公众号：雷峰网)《新智驾》获悉，一家新兴的高阶智能驾驶解决方案公司近日落地在国家智能汽车与智慧交通京冀示范区顺义基地，这家公司名为 IFAUTO 一辅智行，创始人为前寒武纪行歌自动驾驶总监李想。 此时入局，IFAUTO 一辅智行
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769333#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">22 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%AF%92%E6%AD%A6%E7%BA%AA/" class="gray">寒武纪</a> </span>
+                        发布于 <span class="gray">2024-05-07 14:02</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769332">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769332,'agree')">
+                        <span id="digg_num_769332" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769332" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769332/" target="_blank">面壁新模型：早于Llama3、比肩 Llama3、推理超越 Llama3！</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_3166.htm"><img src="https://img2023.cnblogs.com/news_topic/20230704213403636-2101200858.jpg" class="topic_img" alt=""/></a>
+                        两周前，面壁发布领先的开源大模型「Eurux-8x22B 」。相比口碑之作 Llama3-70B，发布时间更早，综合性能相当，尤其是拥有更强的推理性能——刷新开源大模型推理性能 SOTA，堪称开源大模型中「理科状元」。激活参数仅 39B，支持 64k 上下文，相比 Llama3&#160;速度更快、可处理更长
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769332#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">19 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E9%9D%A2%E5%A3%81%E6%99%BA%E8%83%BD/" class="gray">面壁智能</a> </span>
+                        发布于 <span class="gray">2024-05-07 13:54</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769331">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769331,'agree')">
+                        <span id="digg_num_769331" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769331" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769331/" target="_blank">希捷中国区总裁孙丹宣布辞职</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_292.htm"><img src="https://img2018.cnblogs.com/news_topic/20190918103007362-1083022631.png" class="topic_img" alt=""/></a>
+                        AI 掘金志独家获悉，希捷科技全球资深副总裁暨中国区总裁孙丹，已于近期离职。 孙丹在其朋友圈中如此解释辞职原因：“究其根源是中美对立的大环境，即使是十多年的“爱情”在国家利益面前也脆弱如纸。” 截止 2024 年，孙丹在希捷一共工作了十一年，是带领希捷中国区从寂寂无名走向辉煌的核心人物。 孙丹与希捷
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769331#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">85 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%B8%8C%E6%8D%B7/" class="gray">希捷</a> </span>
+                        发布于 <span class="gray">2024-05-07 13:45</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769330">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769330,'agree')">
+                        <span id="digg_num_769330" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769330" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769330/" target="_blank">度小满“轩辕70B”两大权威榜单排名第一 用科技助力服务革新</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1206.htm"><img src="https://images2018.cnblogs.com/news_topic/20180502121645550-1560304036.png" class="topic_img" alt=""/></a>
+                        近年来，大模型技术在金融领域的应用与落地，为金融行业创新发展注入了活力。一直以来，度小满不断布局大模型技术，持续攻克技术难题，以创新技术推动行业转型升级。近期，度小满“轩辕 70B”金融大模型开源，该金融大模型在两大权威榜单所有开源模型中排名第一，展现了度小满在技术领域的雄厚实力。 度小满“轩辕 7
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769330#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">20 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%BA%A6%E5%B0%8F%E6%BB%A1/" class="gray">度小满</a> </span>
+                        发布于 <span class="gray">2024-05-07 13:38</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769329">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769329,'agree')">
+                        <span id="digg_num_769329" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769329" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769329/" target="_blank">滴滴前高级副总裁付强履新，加盟至像科技担任CEO</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_473.htm"><img src="https://img2020.cnblogs.com/news_topic/20200916090549924-327187345.png" class="topic_img" alt=""/></a>
+                        原滴滴出行高级副总裁、满帮集团首席运营官付强加盟至像科技，担任 CEO 及联合创始人。 付强在职业领域有着丰富的经验。他早年就职于多家国际知名外资企业，于 2014 年加入滴滴，担任滴滴代驾第一任总经理、以及滴滴专车事业部负责人。在他的领导下滴滴代驾业务在上线半年后就成为市场份额第一名并迅速实现商业
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769329#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">22 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%87%B3%E5%83%8F%E7%A7%91%E6%8A%80/" class="gray">至像科技</a> <a href="/n/tag/%E6%BB%B4%E6%BB%B4/" class="gray">滴滴</a> </span>
+                        发布于 <span class="gray">2024-05-07 13:30</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769328">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769328,'agree')">
+                        <span id="digg_num_769328" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769328" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769328/" target="_blank">韦伯再次观测 K2-18b，寻找“生命气体”</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1317.htm"><img src="https://img2018.cnblogs.com/news_topic/20181019115720199-66310872.png" class="topic_img" alt=""/></a>
+                        利用韦伯太空望远镜，天文学家在 K2-18 b 行星大气中探测到可能仅由生命产生的二甲基硫化物(DMS)气体，为寻找外星生命提供了新线索。 随着我们继续探索宇宙，我们发现了越来越多的可能孕育生命的系外行星。其中一个世界是 K2-18 b，这是一颗最近因大气中存在引人注目的二甲基硫化物(DMS)气体分
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769328#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">17 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E9%9F%A6%E4%BC%AF%E5%A4%AA%E7%A9%BA%E6%9C%9B%E8%BF%9C%E9%95%9C/" class="gray">韦伯太空望远镜</a> </span>
+                        发布于 <span class="gray">2024-05-07 13:23</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769327">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769327,'agree')">
+                        <span id="digg_num_769327" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769327" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769327/" target="_blank">新增300多项功能，Oracle Database 23ai正式发布！年近50岁的数据库巨头正迈入AI时代</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_97.htm"><img src="https://img2018.cnblogs.com/news_topic/20191214085157927-46664220.png" class="topic_img" alt=""/></a>
+                        北京时间 2024 年 5 月 3 日凌晨， Oracle 公司宣布正在为其数据库产品提供最新的长期支持版本 Oracle Database 23ai。值得一提的是，这款数据库的曾用名是 Database 23c，后来由于数据库中添加了一些 AI 功能而变更为现在的名称。 除了 AI 功能外，Ora
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769327#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">47 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Oracle/" class="gray">Oracle</a> </span>
+                        发布于 <span class="gray">2024-05-07 13:10</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769326">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769326,'agree')">
+                        <span id="digg_num_769326" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769326" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769326/" target="_blank">微软披露严重安全漏洞，受影响App安装量超40亿</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_2.htm"><img src="https://img2023.cnblogs.com/news_topic/20230719081359678-892461041.png" class="topic_img" alt=""/></a>
+                        近日，研究人员披露了一个名为“Dirty Stream”的严重安全漏洞，该漏洞可能影响几款下载总量数十亿的 Android 应用程序。 微软威胁情报团队成员 Dimitrios Valsamaras 在一份报告中声明，威胁攻击者可以利用该安全漏洞，执行任意代码以及盗取令牌。一旦成功利用漏洞，威胁攻击
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769326#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">37 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%BE%AE%E8%BD%AF/" class="gray">微软</a> </span>
+                        发布于 <span class="gray">2024-05-07 12:55</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_769325">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(769325,'agree')">
+                        <span id="digg_num_769325" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_769325" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/769325/" target="_blank">百度副总璩静清空所有视频，此前回应了几点质疑</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_5.htm"><img src="//images0.cnblogs.com/news_topic/baidu.jpg" class="topic_img" alt=""/></a>
+                        昨天，三言在《百度公关老大亲自下场做短视频，5 天涨粉近百万》一文中，讲述了百度副总裁璩静在五一期间，以百度公关一号位的人设，开始拍起了短视频。 随后，相关内容引发热议。 号是买的？ 有网友指出，璩静账号的数据不合理。 璩静的账号拥有近百万的粉丝，但四条视频中，点赞最高的只有 5000 多，最低的只
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/769325#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">93 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E7%99%BE%E5%BA%A6/" class="gray">百度</a> </span>
+                        发布于 <span class="gray">2024-05-07 12:48</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+    </div>
+    <div class="pager"><a href="/" class="p_1 current">1</a><a href="/n/page/2/" class="p_2 middle">2</a><a href="/n/page/3/" class="p_3 middle">3</a><a href="/n/page/4/" class="p_4 middle">4</a><a href="/n/page/5/" class="p_5 middle">5</a><a href="/n/page/6/" class="p_6 middle">6</a><a href="/n/page/7/" class="p_7 middle">7</a><a href="/n/page/8/" class="p_8 middle">8</a><a href="/n/page/9/" class="p_9 middle">9</a><span class="ellipsis">···</span><a href="/n/page/100/" class="p_100 last">100</a><a href="/n/page/2/">Next &gt;</a></div>
+</div>
+
+
+<script type="text/javascript">
+    $(function () {
+        LoadNewsCategory("NewsCategoryId", 11, 0);
+        //新闻列表-右侧编辑推荐新闻
+        CommonLoadNews("/NewsAjax/GetRecommendNews", "RecommendNewsId", 7);
+        //新闻列表-右侧今日新闻排行
+        CommonLoadNews("/NewsAjax/GetHotNews", "HotNewsId", 10);
+        //新闻列表-右侧24小时推荐排行
+        CommonLoadNews("/NewsAjax/GetHotByDiggCount", "HotByDiggCountId", 7);
+        //新闻列表-右侧热门IT新闻
+        CommonLoadNews("/NewsAjax/GetRecentHotNews", "RecentHotNewsId", 10);
+        //新闻列表-右侧最新评论
+        LoadSideComments("NewsIndexCommentsId", 15);
+        CheckAudit();
+        LoadIndexSideInfo();
+    });
+</script>
+        <div id="sideright">
+            
+    <div style="margin-top:25px;">
+        <span id="lbAuditTips" style="display:none;"></span>
+        <div class="news_home_navlink">
+            <div id="rss_sub_top" class="rss_sub">
+                <a href="http://feed.cnblogs.com/news/rss" title="博客园IT新闻RSS订阅">
+                    <img src="//assets.cnblogs.com/images/icon_rss.gif" alt="RSS订阅" />
+                </a>
+            </div>
+            <div style="line-height:30px;">
+                &gt; <a href="https://www.cnblogs.com/news/" class="big">新闻栏目</a><br />
+                &gt; <a href="/n/date/" class="big">新闻日历</a><br />
+                &gt; <a href="/n/topiclist/" class="big">新闻主题</a><br />
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+        <br />
+        <div id="side_right_search">
+            <input type="text" id="google_search_q" size="27" class="side_right_search_q" onkeydown="return google_search_enter(event);" />
+            <input type="submit" name="sa" value="搜索新闻" class="side_right_search_sa" onclick="return google_search();" />
+        </div>
+<div class="side_block">
+    <div class="a4content sidebar-banner" id="news_e2">
+            <a href="https://www.cnblogs.com/cmt/p/18094172" target="_blank"><img src="https://img2024.cnblogs.com/blog/35695/202401/35695-20240115091920679-1644238621.jpg"></a>
+    </div>
+</div>
+        <div class="side_block" id="cate_news">
+            <h3 class="title_yellow">
+                新闻类别
+            </h3>
+            <div class="indent" id="NewsCategoryId">
+            </div>
+        </div>
+        <div id="HotNews1_panelToday">
+            <div class="side_block" id="last_news">
+                <h3 class="title_blue">
+                    今日新闻排行
+                </h3>
+                <ul class="topnews block_list bt" id="HotNewsId">
+                </ul>
+            </div>
+        </div>
+        <div class="side_block">
+            <h3 class="title_yellow">
+                编辑推荐新闻
+            </h3>
+            <ul class="topnews block_list bt" id="RecommendNewsId">
+            </ul>
+        </div>
+        <div id="HotNews1_panelDiggTop">
+            <div class="side_block" id="hotnews_24h">
+                <h3 class="title_green">
+                    24小时推荐排行
+                </h3>
+                <ul class="topnews block_list bt" id="HotByDiggCountId">
+                </ul>
+            </div>
+        </div>
+        <div class="side_block" id="hot_news">
+            <h3 class="title_red">
+                热门IT新闻
+            </h3>
+            <ul class="topnews block_list bt" id="RecentHotNewsId">
+            </ul>
+        </div>
+    </div>
+
+        </div>
+        <div class="clear">
+        </div>
+        <div id="footer">
+            <div id="foot">
+                <a href="//about.cnblogs.com/">关于博客园</a>
+                <a href="//about.cnblogs.com/contact">联系我们</a>
+                <a href="//about.cnblogs.com/bd">商务合作</a>
+                <span>&copy;2004-2024</span>
+                <a href="//www.cnblogs.com">博客园</a>
+                <span id="powered_by">Powered by .NET on Kubernetes</span>
+            </div>
+            <div id="footMobile" style="display:none;">
+                <span>&copy;2004-2024</span>&nbsp;<a href="//www.cnblogs.com">博客园</a>
+            </div>
+        </div>
+    </div>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-L4KFJNGL7P"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-L4KFJNGL7P');
+        </script>
+</body>
+</html>
